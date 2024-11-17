@@ -1,0 +1,41 @@
+Nguyen Van A
+20
+SV0001
+8.5
+Le Thi B
+21
+SV0002
+9.0
+Pham Van C D
+22
+SV0003
+7.5
+Nguyen Van Duc Thinh
+23
+SV0004
+6.8
+Tran Thi Minh Thu
+19
+SV0005
+8.0
+Le Ngoc Hoang Dung
+24
+SV0006
+5.9
+Nguyen Phuong Thao Ngan
+20
+SV0007
+9.2
+Hoang Thanh Tuong Vy
+22
+SV0008
+6.4
+Pham Quoc Viet Anh
+21
+SV0009
+7.7
+Do Thi Kim Lan
+23
+SV0010
+8.3
+
